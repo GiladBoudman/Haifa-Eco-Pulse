@@ -18,6 +18,11 @@ By synthesizing remote sensing data, the dashboard maps ecological dynamics and 
 
 ---
 
+## DEMO
+https://github.com/user-attachments/assets/47e33949-f774-42a9-86d7-058b1d42eef1
+
+---
+
 ## 🛠️ System Architecture & Features
 
 * **Interactive GIS Mapping:** Displays a dynamic, layered map of Haifa with $NO_2$ and NDVI spatial distributions fetched via the Google Earth Engine (GEE) API.
